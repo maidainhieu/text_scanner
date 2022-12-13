@@ -1,16 +1,7 @@
-# text_scanner
+# Welcome to text_scanner Repository
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### This is a cross platform app. You can extract text from a picture. 
+### You can watch the demo video at the following link: [video](https://www.youtube.com/watch?v=jQffvvP9CaY)
+### Screen shot
+![image](https://github.com/maidainhieu/text_scanner/blob/main/images/1.png)
